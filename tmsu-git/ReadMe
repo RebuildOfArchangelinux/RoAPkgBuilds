@@ -1,0 +1,2 @@
+There is currently no option to install the *latest* TMSU for Arch Linux. The last official release is 0.7.5 and is from late 2019. There's been other enhancements in the repo, e.g. bash completion, which broke the current tmsu-git AUR package.
+This derivation is based on https://aur.archlinux.org/packages/tmsu-git@30c728b1, and adds BASH_COMP_INSTALL_DIR option to fix build.
